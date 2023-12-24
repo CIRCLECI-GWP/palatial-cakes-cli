@@ -1,6 +1,6 @@
 # Palatial Cakes CLI application
 
-[![CircleCI](https://circleci.com/gh/CIRCLECI-GWP/palatial-cakes-cli-app/tree/main.svg?style=svg)](https://circleci.com/gh/CIRCLECI-GWP/palatial-cakes-cli-app)
+[![CircleCI](https://circleci.com/gh/CIRCLECI-GWP/palatial-cakes-cli/tree/main.svg?style=svg)](https://circleci.com/gh/CIRCLECI-GWP/palatial-cakes-cli)
 
 <p align="center"><img src="https://avatars3.githubusercontent.com/u/59034516"></p>
 
@@ -11,9 +11,9 @@ A cakes application to show how to test Commander.js command line applications.
 run the following command on your terminal to clone the repository:
 
 ```bash
-git clone https://github.com/CIRCLECI-GWP/palatial-cakes-cli-app.git
+git clone https://github.com/CIRCLECI-GWP/palatial-cakes-cli.git
 
-cd palatial-cakes-cli-app
+cd palatial-cakes-cli
 ```
 
 ## Install the dependencies
@@ -48,7 +48,7 @@ npm run list-cakes
 
 This repo is built following a tutorial published on CircleCI blog under the CircleCI Guest Writer Program.
 
-- Blog post: Automate testing for Golang Gin-gonic RESTful APIs
+- Blog post: Testing Commander.js command line applications
 - Author's GitHub profile: [Waweru Mwaura][author]
 
 ### About CircleCI Guest Writer Program
